@@ -1,4 +1,4 @@
-### Stephanie Vitória aqui 👩🏻‍💻  
+### Stephanie aqui 👩🏻‍💻  
 Desenvolvedora de software em formação, apaixonada por tecnologia e aprendizado contínuo. Atualmente estagiária de desenvolvimento no Bradesco, atuando com backend e microsserviços no contexto bancário.
 
 - 👩🏻‍💻 Estagiária de Desenvolvimento no Bradesco (Crédito Imobiliário)  
