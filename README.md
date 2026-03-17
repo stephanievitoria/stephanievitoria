@@ -10,12 +10,17 @@ Desenvolvedora de software em formação, apaixonada por tecnologia e aprendizad
 ---
 
 ### 🖥️ Atualmente mais focada em:
-<div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+<div>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 </div>
 
 ---
