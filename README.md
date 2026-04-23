@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="chikorita.gif" alt="Chikorita" width="120" />
+  <img src="chikorita.gif" alt="Chikorita" width="200" />
 </div>
 
 # 🌱 `public class Stephanie implements BackendDeveloper {` 
