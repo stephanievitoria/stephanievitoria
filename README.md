@@ -4,10 +4,10 @@
 
 # 🌱 `public class Stephanie implements BackendDeveloper {` 
 
-Assim como a Chikorita, estou em uma jornada constante de crescimento! :)
+Assim como a Chikorita, estou em uma jornada constante de crescimento! :) <br>
 Apaixonada por tecnologia e design, encontro no **Java** e no **Spring Boot** as raízes perfeitas para construir aplicações robustas.
 
-Atualmente no **6º semestre de Sistemas de Informação**, aplico meus conhecimentos na área de Crédito Imobiliário no **Bradesco**, desenvolvendo soluções em microsserviços para processos críticos (como amortização e quitação).
+Atualmente no 6º semestre de **Sistemas de Informação**, aplico meus conhecimentos na área de Crédito Imobiliário no **Bradesco**, desenvolvendo soluções em microsserviços para processos críticos (como amortização e quitação).
 
 ---
 
