@@ -12,7 +12,7 @@ Atualmente estou no 6º semestre de Sistemas de Informação, aplicando meus con
 ### 🐾 O que estou explorando atualmente:
 
 - **Backend Engineer Intern no Bradesco:** Criando código limpo e arquiteturas escaláveis com Java e Spring Boot.
-- **Evolução Full Stack:** Expandindo meus conhecimentos para o desenvolvimento frontend com **Angular**.
+- **Evolução Full Stack:** Expandindo meus conhecimentos para o desenvolvimento frontend com Angular.
 - **UI/UX:** Criando interfaces funcionais e intuitivas no Figma.
 - **Cloud & Dados:** Explorando Azure e modelagem de dados.
 
