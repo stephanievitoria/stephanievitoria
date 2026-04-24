@@ -2,8 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBkZGt1MGVkcWc0bjFoYTU3c24wYXhwc3BsNGIxbWY4bHU4a3p5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dr1E6MHXSg52M/giphy.gif"  width="400" />
 </div>
 
-
-# 🐈‍⬛ `public class Stephanie implements BackendDeveloper {` 
+# 🐈‍⬛ <code>public class Stephanie implements BackendDeveloper {</code>
 
 Assim como o Jiji, tenho um olhar atento aos detalhes e uma curiosidade constante para entender como tudo funciona, o que me leva a construir soluções bem estruturadas, equilibrando qualidade técnica e simplicidade. <br>
 Atualmente no 6º semestre de **Sistemas de Informação**, aplico meus conhecimentos na área de Crédito Imobiliário no **Bradesco**, desenvolvendo soluções em microsserviços para processos críticos (como amortização e quitação).
