@@ -32,7 +32,7 @@ Atualmente estou no 6º semestre de Sistemas de Informação, aplicando meus con
 
 **Frontend & Design**
 <div>
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular"/>
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/>
 </div>
 
