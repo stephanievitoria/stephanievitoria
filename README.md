@@ -4,7 +4,7 @@
 
 # 🐈‍⬛ public class Stephanie implements BackendDeveloper {
 
-Assim como o Jiji, tenho um olhar atento aos detalhes e uma curiosidade constante para entender como tudo funciona, o que me leva a construir soluções bem estruturadas, equilibrando qualidade técnica e simplicidade! :) <br>
+Assim como o Jiji, tenho um olhar atento aos detalhes e uma curiosidade constante para entender como tudo funciona! :) <br>
 Atualmente estou no 6º semestre de Sistemas de Informação, aplicando meus conhecimentos na área de Crédito Imobiliário no Bradesco, desenvolvendo soluções em microsserviços para processos críticos (como amortização e quitação).
 
 ---
